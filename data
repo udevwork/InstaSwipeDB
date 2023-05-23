@@ -1,0 +1,40 @@
+{
+   "favoriteCreators":[
+      {
+         "id":"abcd1234",
+         "profileName":"Creator1",
+         "profileDescription":"Description for Creator1",
+         "profileLink":"http://example.com/creator1",
+         "profileAvatarImageURL":"http://example.com/avatars/creator1.png",
+         "profileHeaderImageURL":"http://example.com/headers/creator1.png",
+         "technicalInfo":"Technical info for Creator1"
+      },
+      {
+         "id":"efgh5678",
+         "profileName":"Creator2",
+         "profileDescription":"Description for Creator2",
+         "profileLink":"http://example.com/creator2",
+         "profileAvatarImageURL":"http://example.com/avatars/creator2.png",
+         "profileHeaderImageURL":"http://example.com/headers/creator2.png",
+         "technicalInfo":"Technical info for Creator2"
+      },
+      {
+         "id":"ijkl9012",
+         "profileName":"Creator3",
+         "profileDescription":"Description for Creator3",
+         "profileLink":"http://example.com/creator3",
+         "profileAvatarImageURL":"http://example.com/avatars/creator3.png",
+         "profileHeaderImageURL":"http://example.com/headers/creator3.png",
+         "technicalInfo":"Technical info for Creator3"
+      }
+   ],
+   "creatorOfTheWeek":{
+      "id":"mnop3456",
+      "profileName":"CreatorOfWeek",
+      "profileDescription":"Description for CreatorOfWeek",
+      "profileLink":"http://example.com/creatorOfWeek",
+      "profileAvatarImageURL":"http://example.com/avatars/creatorOfWeek.png",
+      "profileHeaderImageURL":"http://example.com/headers/creatorOfWeek.png",
+      "technicalInfo":"Technical info for CreatorOfWeek"
+   }
+}
