@@ -5,8 +5,8 @@
          "profileName":"Creator1",
          "profileDescription":"Description for Creator1",
          "profileLink":"http://example.com/creator1",
-         "profileAvatarImageURL":"http://example.com/avatars/creator1.png",
-         "profileHeaderImageURL":"http://example.com/headers/creator1.png",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-03.png",
+         "profileHeaderImageURL":"http://example.com/",
          "technicalInfo":"Technical info for Creator1"
       },
       {
@@ -14,8 +14,8 @@
          "profileName":"Creator2",
          "profileDescription":"Description for Creator2",
          "profileLink":"http://example.com/creator2",
-         "profileAvatarImageURL":"http://example.com/avatars/creator2.png",
-         "profileHeaderImageURL":"http://example.com/headers/creator2.png",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-02.png",
+         "profileHeaderImageURL":"http://example.com/",
          "technicalInfo":"Technical info for Creator2"
       },
       {
@@ -23,8 +23,8 @@
          "profileName":"Creator3",
          "profileDescription":"Description for Creator3",
          "profileLink":"http://example.com/creator3",
-         "profileAvatarImageURL":"http://example.com/avatars/creator3.png",
-         "profileHeaderImageURL":"http://example.com/headers/creator3.png",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-01.png",
+         "profileHeaderImageURL":"http://example.com/",
          "technicalInfo":"Technical info for Creator3"
       }
    ],
