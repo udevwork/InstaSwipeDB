@@ -2,7 +2,7 @@
    "favoriteCreators":[
       {
          "id":"abcd1234",
-         "profileName":"Creator1",
+         "profileName":"Inna",
          "profileDescription":"Description for Creator1",
          "profileLink":"http://example.com/creator1",
          "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-03.png",
@@ -11,7 +11,7 @@
       },
       {
          "id":"efgh5678",
-         "profileName":"Creator2",
+         "profileName":"Jon",
          "profileDescription":"Description for Creator2",
          "profileLink":"http://example.com/creator2",
          "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-02.png",
@@ -20,10 +20,37 @@
       },
       {
          "id":"ijkl9012",
-         "profileName":"Creator3",
+         "profileName":"Steve",
          "profileDescription":"Description for Creator3",
          "profileLink":"http://example.com/creator3",
          "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-01.png",
+         "profileHeaderImageURL":"http://example.com/",
+         "technicalInfo":"Technical info for Creator3"
+      },
+      {
+         "id":"ijkl9012",
+         "profileName":"James",
+         "profileDescription":"Description for Creator3",
+         "profileLink":"http://example.com/creator3",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-04.png",
+         "profileHeaderImageURL":"http://example.com/",
+         "technicalInfo":"Technical info for Creator3"
+      },
+      {
+         "id":"ijkl9012",
+         "profileName":"Christopher",
+         "profileDescription":"Description for Creator3",
+         "profileLink":"http://example.com/creator3",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-05.png",
+         "profileHeaderImageURL":"http://example.com/",
+         "technicalInfo":"Technical info for Creator3"
+      },
+      {
+         "id":"ijkl9012",
+         "profileName":"Matthew",
+         "profileDescription":"Description for Creator3",
+         "profileLink":"http://example.com/creator3",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-06.png",
          "profileHeaderImageURL":"http://example.com/",
          "technicalInfo":"Technical info for Creator3"
       }
