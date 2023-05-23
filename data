@@ -19,7 +19,7 @@
          "technicalInfo":"Technical info for Creator2"
       },
       {
-         "id":"ijkl9012",
+         "id":"imcevyru",
          "profileName":"Steve",
          "profileDescription":"Description for Creator3",
          "profileLink":"http://example.com/creator3",
@@ -28,7 +28,7 @@
          "technicalInfo":"Technical info for Creator3"
       },
       {
-         "id":"ijkl9012",
+         "id":"f4we5gryh",
          "profileName":"James",
          "profileDescription":"Description for Creator3",
          "profileLink":"http://example.com/creator3",
@@ -37,7 +37,7 @@
          "technicalInfo":"Technical info for Creator3"
       },
       {
-         "id":"ijkl9012",
+         "id":"kj76hyegfs",
          "profileName":"Christopher",
          "profileDescription":"Description for Creator3",
          "profileLink":"http://example.com/creator3",
@@ -46,7 +46,7 @@
          "technicalInfo":"Technical info for Creator3"
       },
       {
-         "id":"ijkl9012",
+         "id":"ijhge412",
          "profileName":"Matthew",
          "profileDescription":"Description for Creator3",
          "profileLink":"http://example.com/creator3",
@@ -57,11 +57,11 @@
    ],
    "creatorOfTheWeek":{
       "id":"mnop3456",
-      "profileName":"CreatorOfWeek",
+      "profileName":"Winst",
       "profileDescription":"Description for CreatorOfWeek",
       "profileLink":"http://example.com/creatorOfWeek",
-      "profileAvatarImageURL":"http://example.com/avatars/creatorOfWeek.png",
-      "profileHeaderImageURL":"http://example.com/headers/creatorOfWeek.png",
+      "profileAvatarImageURL":"http://example.com/",
+      "profileHeaderImageURL":"https://github.com/udevwork/InstaSwipeDB/blob/main/Optimized-imageOfTheWeek.png?raw=true",
       "technicalInfo":"Technical info for CreatorOfWeek"
    }
 }
