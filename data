@@ -1,67 +1,67 @@
 {
    "favoriteCreators":[
       {
-         "id":"abcd1234",
-         "profileName":"Inna",
-         "profileDescription":"Description for Creator1",
-         "profileLink":"http://example.com/creator1",
-         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-03.png",
-         "profileHeaderImageURL":"http://example.com/",
-         "technicalInfo":"Technical info for Creator1"
+         "id":"fg548fwoir",
+         "profileName":"Izumi",
+         "profileDescription":"",
+         "profileLink":"https://www.instagram.com/izumi_kogahara/",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/main/Izumi.jpg",
+         "profileHeaderImageURL":"",
+         "technicalInfo":""
       },
       {
-         "id":"efgh5678",
-         "profileName":"Jon",
-         "profileDescription":"Description for Creator2",
-         "profileLink":"http://example.com/creator2",
-         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-02.png",
-         "profileHeaderImageURL":"http://example.com/",
-         "technicalInfo":"Technical info for Creator2"
+         "id":"kw98h45l8",
+         "profileName":"Hans",
+         "profileDescription":"",
+         "profileLink":"https://www.instagram.com/hans_op_de_beeck/",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/main/hans_op_de_beeck.jpg",
+         "profileHeaderImageURL":"",
+         "technicalInfo":""
       },
       {
          "id":"imcevyru",
-         "profileName":"Steve",
-         "profileDescription":"Description for Creator3",
-         "profileLink":"http://example.com/creator3",
-         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-01.png",
-         "profileHeaderImageURL":"http://example.com/",
-         "technicalInfo":"Technical info for Creator3"
+         "profileName":"Fine Arts",
+         "profileDescription":"",
+         "profileLink":"https://www.instagram.com/fine_arts_gallery/",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/main/fine_arts_gallery.jpg",
+         "profileHeaderImageURL":"",
+         "technicalInfo":""
       },
       {
          "id":"f4we5gryh",
-         "profileName":"James",
-         "profileDescription":"Description for Creator3",
-         "profileLink":"http://example.com/creator3",
-         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-04.png",
-         "profileHeaderImageURL":"http://example.com/",
-         "technicalInfo":"Technical info for Creator3"
+         "profileName":"Paul",
+         "profileDescription":"",
+         "profileLink":"https://www.instagram.com/paul_johnstone/",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/main/paul_johnstone.jpg",
+         "profileHeaderImageURL":"",
+         "technicalInfo":""
       },
       {
          "id":"kj76hyegfs",
-         "profileName":"Christopher",
-         "profileDescription":"Description for Creator3",
-         "profileLink":"http://example.com/creator3",
-         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-05.png",
-         "profileHeaderImageURL":"http://example.com/",
-         "technicalInfo":"Technical info for Creator3"
+         "profileName":"Aesthetica",
+         "profileDescription":"",
+         "profileLink":"https://www.instagram.com/aestheticamag/",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/main/aestheticamag.jpg",
+         "profileHeaderImageURL":"",
+         "technicalInfo":""
       },
       {
          "id":"ijhge412",
-         "profileName":"Matthew",
-         "profileDescription":"Description for Creator3",
-         "profileLink":"http://example.com/creator3",
-         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/1991d9e8d97017aed957e186b9dad7f378a5901f/ava-06.png",
-         "profileHeaderImageURL":"http://example.com/",
-         "technicalInfo":"Technical info for Creator3"
+         "profileName":"Blaise",
+         "profileDescription":"",
+         "profileLink":"https://www.instagram.com/buhlaixe/",
+         "profileAvatarImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/main/BlaiseDanio.jpg",
+         "profileHeaderImageURL":"",
+         "technicalInfo":""
       }
    ],
    "creatorOfTheWeek":{
       "id":"mnop3456",
-      "profileName":"Winst",
-      "profileDescription":"Description for CreatorOfWeek",
-      "profileLink":"http://example.com/creatorOfWeek",
-      "profileAvatarImageURL":"http://example.com/",
-      "profileHeaderImageURL":"https://github.com/udevwork/InstaSwipeDB/blob/main/Optimized-imageOfTheWeek.png?raw=true",
-      "technicalInfo":"Technical info for CreatorOfWeek"
+      "profileName":"Aesthetica",
+      "profileDescription":"",
+      "profileLink":"https://www.instagram.com/aestheticamag/",
+      "profileAvatarImageURL":"",
+      "profileHeaderImageURL":"https://raw.githubusercontent.com/udevwork/InstaSwipeDB/main/imageOfTheWeek.png",
+      "technicalInfo":""
    }
 }
